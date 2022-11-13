@@ -15,6 +15,3 @@ The surveillance robot will be designed to deliver a reasonable level of efficie
 6.Can be used to hijacked areas/buildings.  
 7.Can be used under a tunnel with an introduction of sensors like gas and pollution sensor. </br>
 
-
-### [DETAILED REPORT](https://github.com/the-vishal/Surveillance-Rover/blob/master/assets/SURVILLANCE%20ROVER%20FINAL%20REPORT.docx?raw=true)
-
